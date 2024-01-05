@@ -1,26 +1,30 @@
 <!--
---- Readme.md Snippet without images Start ---
+&lt;--- Readme.md Snippet without images Start ---&gt;
 ## Tech Stack
 xavierloeraflores/tipIOSApp is built on the following main stack:
+
 - [Swift](https://developer.apple.com/swift/) – Languages
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet without images End ---
 
---- Readme.md Snippet with images Start ---
+&lt;--- Readme.md Snippet without images End ---&gt;
+
+&lt;--- Readme.md Snippet with images Start ---&gt;
 ## Tech Stack
 xavierloeraflores/tipIOSApp is built on the following main stack:
+
 - <img width='25' height='25' src='https://img.stackshare.io/service/1009/tuHsaI2U.png' alt='Swift'/> [Swift](https://developer.apple.com/swift/) – Languages
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet with images End ---
+
+&lt;--- Readme.md Snippet with images End ---&gt;
 -->
 <div align="center">
 
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [xavierloeraflores/tipIOSApp](https://github.com/xavierloeraflores/tipIOSApp)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|2<br/>Tools used|11/16/23 <br/>Report generated|
+|2<br/>Tools used|01/05/24 <br/>Report generated|
 |------|------|
 </div>
 
